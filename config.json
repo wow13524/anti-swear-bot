@@ -1,0 +1,19 @@
+{
+    "BotConfig": {
+        "client_args": {
+            "max_messages": null
+        },
+        "intents": {
+            "guilds": true,
+            "message_content": true
+        },
+        "enabled_modules": [
+            "modules.core",
+            "modules.persistence"
+        ],
+        "token": ""
+    },
+    "PersistenceConfig": {
+        "db_name": "anti_swear_bot.db"
+    }
+}
