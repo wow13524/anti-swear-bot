@@ -8,6 +8,7 @@
             "message_content": true
         },
         "enabled_modules": [
+            "modules.anti_swear_bot",
             "modules.core",
             "modules.persistence"
         ],
